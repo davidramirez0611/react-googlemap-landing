@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 
+// eslint-disable-next-line
 class Location extends Component {
   render() {
     return (
